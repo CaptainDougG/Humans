@@ -3,7 +3,6 @@ import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.Comparator;
 
-yes
 public class Human implements Comparable<Human>{
 	
 	
